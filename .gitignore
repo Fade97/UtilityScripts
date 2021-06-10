@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 
-Photogrammetry Image Acquisition/*.jpg
+scanImage*.jpg
